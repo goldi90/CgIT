@@ -1,0 +1,6 @@
+class first{
+ public static void main(String args[]){
+	 Sytem.out.print("hi");
+
+ }
+}
